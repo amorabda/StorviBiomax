@@ -1,4 +1,7 @@
 {
-  "latestVersion": "v3.0.3",
-  "url": "https://github.com/amorabda/StorviBiomax/releases/"
+    "versionCode":10,                    
+    "versionName":"3.0.3",                  
+    "contentText":"aaaaaa",           
+    "minSupport":5,   
+    "url": "https://github.com/amorabda/StorviBiomax/releases/"                       
 }
